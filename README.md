@@ -1,7 +1,6 @@
 <h1 align="center">Hi, I'm McAffe13</h1>
-<h3 align="center">161 - Free Palestine! - <img src="https://komarev.com" alt="McAffe13" /></h3> 
+<h3 align="center"><img src="https://komarev.com/ghpvc/?username=McAffe13&label=Profile%20views&color=0e75b6&style=flat" alt="McAffe13" /></h3> 
 
-- Ich arbeite aktuell an Projekten für Affenix Studios
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
