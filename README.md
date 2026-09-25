@@ -4,14 +4,6 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-  <!-- Java -->
-  <a href="https://oracle.com" target="_blank" rel="noreferrer"> <img src="https://githubusercontent.com" alt="java" width="40" height="40"/> </a>
-  <!-- PHP -->
-  <a href="https://php.net" target="_blank" rel="noreferrer"> <img src="https://githubusercontent.com" alt="php" width="40" height="40"/> </a>
-  <!-- Maven -->
-  <a href="https://apache.org" target="_blank" rel="noreferrer"> <img src="https://vectorlogo.zone" alt="maven" width="40" height="40"/> </a>
-  <!-- Gradle -->
-  <a href="https://gradle.org" target="_blank" rel="noreferrer"> <img src="https://vectorlogo.zone" alt="gradle" width="40" height="40"/> </a>
   <!-- Kotlin -->
   <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> 
   <!-- Python -->
