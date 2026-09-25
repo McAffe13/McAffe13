@@ -1,18 +1,11 @@
 # Hi, I'm McAffe13 👋
 
-<p align="left">
-  <!-- Besucherzähler für dein Profil -->
-  <img src="https://komarev.com" alt="Profile views" />
-</p>
+![Profile views](https://komarev.com)
 
+### Languages and Tools:
 
-
+![Java](https://shields.io) ![Git](https://shields.io) ![GitHub](https://shields.io) ![IntelliJ IDEA](https://shields.io)
 
 ### GitHub-Statistiken
 
-<p align="left">
-  <img src="https://shields.io" alt="GitHub Profile" />
-  <img src="https://shields.io" alt="Status" />
-  <img src="https://shields.io" alt="Contributions" />
-</p>
-
+![McAffe13's Stats](https://vercel.app)
