@@ -39,6 +39,7 @@
 ### GitHub-Statistiken
 
 <p align="left">
-  <!-- Deine echten Live-Statistiken -->
-  <img src="https://herokuapp.com" alt="GitHub Streak Stats" />
+  <!-- Hier ist dein Name "McAffe13" bereits fest im Link integriert: -->
+  <img src="https://vercel.app" alt="GitHub Streak Stats" />
 </p>
+
