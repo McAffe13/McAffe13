@@ -1,20 +1,14 @@
 # Hi, I'm McAffe13 👋
 
-☕ **Willkommen auf meinem Profil!**
-
 * 🔭 Ich arbeite aktuell an Projekten für **Affenix Studios**
 
----
+### Languages and Tools:
 
-### 💻 Tech Stack & Tools:
+![Java](https://shields.io) ![Git](https://shields.io) ![GitHub](https://shields.io) ![IntelliJ IDEA](https://shields.io)
 
-* ☕ **Java** - Meine Hauptprogrammiersprache
-* 🛠️ **IntelliJ IDEA** - Meine bevorzugte Entwicklungsumgebung
-* 🐙 **GitHub & Git** - Versionsverwaltung und Kollaboration
+### GitHub-Statistiken
 
----
-
-### 📊 Meine GitHub Aktivität:
-
-* 🟩 **Beiträge im letzten Jahr:** Über 90 Contributions (siehe Grafik weiter unten auf meinem Profil!)
-* 🚀 **Fokus:** Softwareentwicklung & Plugins
+<p align="left">
+  <!-- Neuer, fehlerfreier Ersatz für die Streak-Stats -->
+  <img src="https://vercel.app" alt="GitHub Streak Stats" />
+</p>
