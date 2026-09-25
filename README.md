@@ -39,7 +39,8 @@
 ### GitHub-Statistiken
 
 <p align="left">
-  <!-- Hier ist dein Name "McAffe13" bereits fest im Link integriert: -->
-  <img src="https://vercel.app" alt="GitHub Streak Stats" />
+  <img src="https://shields.io" alt="GitHub Profile" />
+  <img src="https://shields.io" alt="Status" />
+  <img src="https://shields.io" alt="Contributions" />
 </p>
 
