@@ -1,11 +1,20 @@
 # Hi, I'm McAffe13 👋
 
-![Profile views](https://komarev.com)
+☕ **Willkommen auf meinem Profil!**
 
-### Languages and Tools:
+* 🔭 Ich arbeite aktuell an Projekten für **Affenix Studios**
 
-![Java](https://shields.io) ![Git](https://shields.io) ![GitHub](https://shields.io) ![IntelliJ IDEA](https://shields.io)
+---
 
-### GitHub-Statistiken
+### 💻 Tech Stack & Tools:
 
-![McAffe13's Stats](https://vercel.app)
+* ☕ **Java** - Meine Hauptprogrammiersprache
+* 🛠️ **IntelliJ IDEA** - Meine bevorzugte Entwicklungsumgebung
+* 🐙 **GitHub & Git** - Versionsverwaltung und Kollaboration
+
+---
+
+### 📊 Meine GitHub Aktivität:
+
+* 🟩 **Beiträge im letzten Jahr:** Über 90 Contributions (siehe Grafik weiter unten auf meinem Profil!)
+* 🚀 **Fokus:** Softwareentwicklung & Plugins
